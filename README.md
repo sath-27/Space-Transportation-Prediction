@@ -9,7 +9,8 @@ The aim of the work is to predict whether a passenger was transported to an alte
 3.Later, the dataset was fed into multi-layer neural networks model considering ReLu and Sigmoid functions as activation functions. This model was around 79.5% accurate which is lesser than XGB(79.8%) but higher than LGBM(79.3%) models.
 
 
-#The Dataset:
+The Dataset:
+
 There are two input datasets namely 'test.csv' and 'train.csv' which are taken from Kaggle.
 The output datasets were the predicted data with XGB,LGBM,ANN models.
 
